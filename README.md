@@ -1,3 +1,1 @@
-## Computer Science (AI/ML) undergraduate with strong foundations in software engineering, data structures & algorithms, object-oriented programming, operating systems, databases, and programming fundhamentals. 
-## Developed and maintained backend-focused projects involving scalable services, automation, server management, and performance optimization. 
-## Strong interest in designing, developing, testing, and improving reliable software systems while collaborating effectively, learning new technologies and applying best engineering practices.
+## Hello there.
